@@ -1,11 +1,6 @@
 # 事件响应和计算机取证第三版
 本地：[Incident-Response-&-Computer-Forensics](/Users/xt/Documents/security/开发dev/github_project/ISLT/Incident-Response-&-Computer-Forensics)
-
 ![](media/16824074682507/16825623782939.jpg)
-
-
-
-
 作者Jason T. Luttgens、Matthew Pepe
 
 献给我的父母，在1988年我13岁时买给我第一台电脑——Tandy 1000 SX。——杰森
